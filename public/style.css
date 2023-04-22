@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+  }
+  
+  body {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  main {
+    flex: 1;
+  }
+  
+  footer {
+    margin-top: auto;
+  }
+img{
+    height: 500px;
+}
